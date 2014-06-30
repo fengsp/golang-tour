@@ -4,4 +4,80 @@ A Tour of Go
 
     Read the tour at http://tour.golang.org/
 
+    Table of contents are as follows:
+
+        01. Hello, 世界
+        02. Go local
+        03. The Go Playground
+        04. Packages
+        05. Imports
+        06. Exported names
+        07. Functions
+        08. Functions continued
+        09. Multiple results
+        10. Named results
+        11. Variables
+        12. Variables with initializers
+        13. Short variable declarations
+        14. Basic types
+        15. Type conversions
+        16. Constants
+        17. Numeric Constants
+        18. For
+        19. For continued
+        20. For is Go's "while"
+        21. Forever
+        22. If
+        23. If with a short statement
+        24. If and else
+        25. Exercise: Loops and Functions
+        26. Structs
+        27. Struct Fields
+        28. Pointers
+        29. Struct Literals
+        30. The new function
+        31. Arrays
+        32. Slices
+        33. Slicing slices
+        34. Making slices
+        35. Nil slices
+        36. Range
+        37. Range continued
+        38. Exercise: Slices
+        39. Maps
+        40. Map literals
+        41. Map literals continued
+        42. Mutating Maps
+        43. Exercise: Maps
+        44. Function values
+        45. Function closures
+        46. Exercise: Fibonacci closure
+        47. Switch
+        48. Switch evaluation order
+        49. Switch with no condition
+        50. Advanced Exercise: Complex cube roots
+        51. Methods and Interfaces
+        52. Methods
+        53. Methods continued
+        54. Methods with pointer receivers
+        55. Interfaces
+        56. Interfaces are satisfied implicitly
+        57. Errors
+        58. Exercise: Errors
+        59. Web servers
+        60. Exercise: HTTP Handlers
+        61. Images
+        62. Exercise: Images
+        63. Exercise: Rot13 Reader
+        64. Concurrency
+        65. Goroutines
+        66. Channels
+        67. Buffered Channels
+        68. Range and Close
+        69. Select
+        70. Default Selection
+        71. Exercise: Equivalent Binary Trees
+        72. Exercise: Equivalent Binary Trees
+        73. Exercise: Web Crawler
+
     If you feel anything wrong, feedbacks or pull requests are welcomed.
